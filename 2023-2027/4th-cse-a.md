@@ -79,25 +79,3 @@
 
 </div>
 ---
-
-## 🏆 Leaderboard of the Week
-### 📅 Week: `Jul 07 – Jul 13, 2026`
-
-<div align="center">
-
-| 🥇 Rank | Name | Problems Solved (This Week) |
-|:------:|:-----|:---------------------------:|
-| 🥇 1st | *TBD* | *0* |
-| 🥈 2nd | *TBD* | *0* |
-| 🥉 3rd | *TBD* | *0* |
-
-</div>
-
-### ⚠️ Inactive This Week (0 problems solved)
-> Students below did not submit any solved problems this week. Keep the streak alive! 💪
-
-- *TBD*
-- *TBD*
-- *TBD*
-
----
