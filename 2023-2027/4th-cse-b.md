@@ -3,7 +3,7 @@
 # 💻 CSE Department — LeetCode Tracker
 ### 🎓 Batch 2023 – 2027 &nbsp;|&nbsp; Section B
 
-![Students](https://img.shields.io/badge/Total%20Students-21-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white)
+![Students](https://img.shields.io/badge/Total%20Students-23-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-2023--2027-orange?style=for-the-badge&logo=googleclassroom&logoColor=white)
 ![Section](https://img.shields.io/badge/Section-B-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Tracking-Active-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)
