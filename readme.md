@@ -3,7 +3,7 @@
 # 🎓 CSE Department — LeetCode Progress Portal
 ### Dr. N.G.P. Institute of Technology
 
-![Batches](https://img.shields.io/badge/Batches-2023--2027%20%7C%202024--2028-blue?style=for-the-badge)
+![Batches](https://img.shields.io/badge/Batches-2023--2027-blue?style=for-the-badge)
 ![Auto Updated](https://img.shields.io/badge/Leaderboard-Auto--Updated%20Daily-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Maintained](https://img.shields.io/badge/Maintained%20by-Kaviyarasu%20G-black?style=for-the-badge&logo=github)
 
@@ -21,7 +21,6 @@
 |:------|:-------:|:--------:|:--------|
 | 2023 – 2027 | A | 42 | [📄 View Tracker](./2023-2027/4th-cse-a.md) |
 | 2023 – 2027 | B | 23 | [📄 View Tracker](./2023-2027/4th-cse-b.md) |
-| 2024 – 2028 | — | — | [📄 View Tracker](./2024-2028.md) |
 
 ---
 
