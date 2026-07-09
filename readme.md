@@ -20,7 +20,7 @@
 | Batch | Section | Students | Tracker |
 |:------|:-------:|:--------:|:--------|
 | 2023 – 2027 | A | 42 | [📄 View Tracker](./2023-2027/4th-cse-a.md) |
-| 2023 – 2027 | B | — | [📄 View Tracker](./2023-2027/4th-cse-b.md) |
+| 2023 – 2027 | B | 23 | [📄 View Tracker](./2023-2027/4th-cse-b.md) |
 | 2024 – 2028 | — | — | [📄 View Tracker](./2024-2028.md) |
 
 ---
