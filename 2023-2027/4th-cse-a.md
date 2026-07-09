@@ -11,9 +11,9 @@
 
 ---
 
-| S.No | Reg No | Name | GitHub | LeetCode | Progress |
-|:----:|:------|:-----|:------:|:--------:|:---------|
-| 27 | 710723104043 | **KAVIYARASU G** | [🔗 Profile](https://github.com/kaviyarasu2905) • [📦 Repo](https://github.com/kaviyarasu2905/Leetcode-tracker.git) | [🔗 LeetCode](https://leetcode.com/u/kavi29052005/) | ![](https://leetcard.jacoblin.cool/kavi29052005) |
+| S.No | Reg No | Name | GitHub | Repo URL | Leetcode URL | Current Status |
+|:----:|:------|:-----|:------:|:--------:|:------------:|:---------|
+| 27 | 710723104043 | **KAVIYARASU G** | [Profile](https://github.com/kaviyarasu2905) | [Repo](https://github.com/kaviyarasu2905/Leetcode-tracker.git) | [LeetCode](https://leetcode.com/u/kavi29052005/) | ![](https://leetcard.jacoblin.cool/kavi29052005) |
 
 ---
 
