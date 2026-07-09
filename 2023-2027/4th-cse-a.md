@@ -53,9 +53,9 @@
 | 31 | 710723104050 | KIRUPAKARAN S | [👤](https://github.com/kirupakaranselvaraj) | [📦](https://github.com/kirupakaranselvaraj/LeetCode) | [🔗](https://leetcode.com/u/KIRUPAKARAN151205/) | ![](https://leetcard.jacoblin.cool/KIRUPAKARAN151205) |
 | 32 | 710723104052 | LAKSHMI PRIYA S | [👤](https://github.com/lakshmipriyasakthivel200626-cpu) | [📦](https://github.com/lakshmipriyasakthivel200626-cpu/leetcode-tracker) | [🔗](https://leetcode.com/u/Lakshmi_Priya_Sakthivel/) | ![](https://leetcard.jacoblin.cool/Lakshmi_Priya_Sakthivel) |
 | 33 | 710723104053 | LATIKA S | [👤](https://github.com/Latika-1220) | [📦](https://github.com/Latika-1220/leetcode-tracker) | [🔗](https://leetcode.com/u/Latika1220/) | ![](https://leetcard.jacoblin.cool/Latika1220) |
-| 34 | 710723104056 | MADHU MATHI R | — | — | — | ⏳ *Pending* |
+| 34 | 710723104056 | MADHU MATHI R | [👤](https://github.com/MadhuMathi-7) | [📦](https://github.com/MadhuMathi-7/leetcode-tracker) | [🔗](https://leetcode.com/u/Madhu_7777/) | ![](https://leetcard.jacoblin.cool/Madhu_7777) |
 | 35 | 710723104057 | MAHASMRITI S S | — | — | — | ⏳ *Pending* |
-| 36 | 710723104059 | MOHIT NIVAS J S | — | — | — | ⏳ *Pending* |
+| 36 | 710723104059 | MOHIT NIVAS J S | [👤](https://github.com/mohitnivasjs) | [📦](https://github.com/mohitnivasjs/leetcode-tracker) | [🔗](https://leetcode.com/u/mohitnivasjs/) | ![](https://leetcard.jacoblin.cool/mohitnivasjs) |
 | 37 | 710723104061 | MUKILAN M | [👤](https://github.com/mukilan-art) | [📦](https://github.com/mukilan-art/Leetcode_Tracker) | [🔗](https://leetcode.com/u/mukilan_15/) | ![](https://leetcard.jacoblin.cool/mukilan_15) |
 | 38 | 710723104062 | MUTHU BHAVANI D | [👤](https://github.com/bhavani2706) | [📦](https://github.com/bhavani2706/Leetcode_Tracker) | [🔗](https://leetcode.com/u/MUTHUBHAVANI/) | ![](https://leetcard.jacoblin.cool/MUTHUBHAVANI) |
 | 39 | 710723104063 | NANDHIDHA SRI S | [👤](https://github.com/NandhidhaSri-03) | [📦](https://github.com/NandhidhaSri-03/leetcode-tracker) | [🔗](https://leetcode.com/u/NandhidhaSri/) | ![](https://leetcard.jacoblin.cool/NandhidhaSri) |
