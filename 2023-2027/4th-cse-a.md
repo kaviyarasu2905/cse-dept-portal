@@ -16,6 +16,24 @@
 
 ---
 
+<!-- DAILY_TOP3:START -->
+## 🌟 Top 3 Performers — Today
+### 📅 `Jul 09, 2026`
+*Last updated: 09:00 AM IST*
+
+<div align="center">
+
+| Rank | Name | Problems Solved (Today) |
+|:----:|:-----|:------------------------:|
+| 🥇 | *TBD* | *0* |
+| 🥈 | *TBD* | *0* |
+| 🥉 | *TBD* | *0* |
+
+</div>
+<!-- DAILY_TOP3:END -->
+
+---
+
 ## 📊 Student Progress Board
 
 | # | Reg No | Student | GitHub | Tracker Repo | LeetCode | Live Stats |
@@ -78,4 +96,3 @@
 *🔥 Keep grinding, CSE-A! Consistency beats intensity.*
 
 </div>
----
