@@ -21,24 +21,24 @@
 | # | Reg No | Student | GitHub | Tracker Repo | LeetCode | Live Stats |
 |:-:|:-------|:--------|:------:|:-------------:|:--------:|:-----------|
 | 01 | 710723104064 | NAVALAKSHMI S | [👤](https://github.com/Navalakshmi29) | [📦](https://github.com/Navalakshmi29/leetcode-tracker) | [🔗](https://leetcode.com/u/Navalakshmis/) | ![](https://leetcard.jacoblin.cool/Navalakshmis) |
-| 02 | 710723104065 | NAVEENA D | — | — | — | ⏳ *Pending* |
+| 02 | 710723104065 | NAVEENA D | [👤](https://github.com/naveena-sys) | [📦](https://github.com/naveena-sys/leetcode-tracker) | [🔗](https://leetcode.com/u/naveenadharman05/) | ![](https://leetcard.jacoblin.cool/naveenadharman05) |
 | 03 | 710723104070 | NILALOCHAN B V | [👤](https://github.com/nilalochanbv) | [📦](https://github.com/nilalochanbv/leetcode-tracker) | [🔗](https://leetcode.com/u/nilalochanbv/) | ![](https://leetcard.jacoblin.cool/nilalochanbv) |
 | 04 | 710723104073 | NITHEESH R | [👤](https://github.com/NITHEESHRAMASAMY) | [📦](https://github.com/NITHEESHRAMASAMY/leetcode-tracker) | [🔗](https://leetcode.com/u/Nitheesh25/) | ![](https://leetcard.jacoblin.cool/Nitheesh25) |
 | 05 | 710723104082 | PUGALARASAN A | [👤](https://github.com/PUGAL3105) | [📦](https://github.com/PUGAL3105/leetcode-tracker) | [🔗](https://leetcode.com/u/pugalarasan-0310/) | ![](https://leetcard.jacoblin.cool/pugalarasan-0310) |
 | 06 | 710723104083 | RAGA SANDHIYA R | [👤](https://github.com/RagaSandhiya05) | [📦](https://github.com/RagaSandhiya05/LeetCode_Tracker) | [🔗](https://leetcode.com/u/Raga_Sandhiya_R/) | ![](https://leetcard.jacoblin.cool/Raga_Sandhiya_R) |
-| 07 | 710723104090 | SANGAVI N | — | — | — | ⏳ *Pending* |
+| 07 | 710723104090 | SANGAVI N | [👤](https://github.com/Sangavi86) | [📦](https://github.com/Sangavi86/leetcode-tracker) | [🔗](https://leetcode.com/u/Sangavi_Nataraj/) | ![](https://leetcard.jacoblin.cool/Sangavi_Nataraj) |
 | 08 | 710723104094 | SARAN PRANAV C | [👤](https://github.com/saranpranavc-gif) | [📦](https://github.com/saranpranavc-gif/leetcode-tracker) | [🔗](https://leetcode.com/u/saranpranav--c/) | ![](https://leetcard.jacoblin.cool/saranpranav--c) |
 | 09 | 710723104097 | SHANJIL TIZU V K | [👤](https://github.com/Shanjiltizu) | [📦](https://github.com/Shanjiltizu/leetcode-tracker) | [🔗](https://leetcode.com/u/shanjil27/) | ![](https://leetcard.jacoblin.cool/shanjil27) |
 | 10 | 710723104099 | SHARMITHA G | [👤](https://github.com/sharmithapriyanka-hub) | [📦](https://github.com/sharmithapriyanka-hub/leetcode-tracker) | [🔗](https://leetcode.com/u/Sharmitha_G/) | ![](https://leetcard.jacoblin.cool/Sharmitha_G) |
 | 11 | 710723104101 | SHRI SHIVANESH S R | [👤](https://github.com/shivanesh7) | [📦](https://github.com/shivanesh7/leetcode-tracker.git) | [🔗](https://leetcode.com/u/shivaneshsr/) | ![](https://leetcard.jacoblin.cool/shivaneshsr) |
-| 12 | 710723104102 | SIVA SURYA M S | — | — | — | ⏳ *Pending* |
+| 12 | 710723104102 | SIVA SURYA M S | [👤](https://github.com/sivasurya67) | [📦](https://github.com/sivasurya67/leetcode-tracker) | [🔗](https://leetcode.com/u/sivasurya26/) | ![](https://leetcard.jacoblin.cool/sivasurya26) |
 | 13 | 710723104104 | SNEHA S | [👤](https://github.com/snehasudalaimuthu) | [📦](https://github.com/snehasudalaimuthu/Leetcode-Tracker) | [🔗](https://leetcode.com/u/Snehasudalaimuthu/) | ![](https://leetcard.jacoblin.cool/Snehasudalaimuthu) |
 | 14 | 710723104105 | SOMESH S | [👤](https://github.com/Somesh934279) | [📦](https://github.com/Somesh934279/leetcode-tracker) | [🔗](https://leetcode.com/u/Somesh105/) | ![](https://leetcard.jacoblin.cool/Somesh105) |
 | 15 | 710723104108 | SOWNDHARYA P L | [👤](https://github.com/SowndharyaPL15) | [📦](https://github.com/SowndharyaPL15/leetcode-tracker) | [🔗](https://leetcode.com/u/SOWNDHARYAPL/) | ![](https://leetcard.jacoblin.cool/SOWNDHARYAPL) |
-| 16 | 710723104110 | SRI SARVESH B | — | — | — | ⏳ *Pending* |
+| 16 | 710723104110 | SRI SARVESH B | [👤](https://github.com/SriSarvesh08/) | [📦](https://github.com/SriSarvesh08/leetocde-tracker) | [🔗](https://leetcode.com/u/Srisarvesh_08/) | ![](https://leetcard.jacoblin.cool/Srisarvesh_08) |
 | 17 | 710723104112 | SRIYADHAV R | [👤](https://github.com/sriyadhavR08) | [📦](https://github.com/sriyadhavR08/leetcode-tracker) | [🔗](https://leetcode.com/u/sriyadhav/) | ![](https://leetcard.jacoblin.cool/sriyadhav) |
 | 18 | 710723104113 | SUBAMATHI R | [👤](https://github.com/subamathiR) | [📦](https://github.com/subamathiR/leetcode-tracker) | [🔗](https://leetcode.com/u/SubamathiR/) | ![](https://leetcard.jacoblin.cool/SubamathiR) |
-| 19 | 710723104116 | SURENRA S | [👤](https://github.com/SURENRASIVAKUMAR) | [📦](https://github.com/SURENRASIVAKUMAR/leetcode-tracker) | — | ⏳ *Pending* |
+| 19 | 710723104116 | SURENRA S | [👤](https://github.com/SURENRASIVAKUMAR) | [📦](https://github.com/SURENRASIVAKUMAR/leetcode-tracker) | [🔗](https://leetcode.com/u/Surenra/) | ![](https://leetcard.jacoblin.cool/Surenra) |
 | 20 | 710723104117 | TAMIL ELAKIYA S | [👤](https://github.com/Elakiyatamil) | [📦](https://github.com/Elakiyatamil/leetcode-tracker) | [🔗](https://leetcode.com/u/elakiya_tamil/) | ![](https://leetcard.jacoblin.cool/elakiya_tamil) |
 | 21 | 710723104118 | THARANI DHARAN R | [👤](https://github.com/TharaniDharan-R) | [📦](https://github.com/TharaniDharan-R/leetcode-tracker) | [🔗](https://leetcode.com/u/tharani_118/) | ![](https://leetcard.jacoblin.cool/tharani_118) |
 | 22 | 710723104120 | VEENOTHA Y | [👤](https://github.com/veenothay078-sys) | [📦](https://github.com/veenothay078-sys/Leetcode-tracker-) | [🔗](https://leetcode.com/u/VeenothaY/) | ![](https://leetcard.jacoblin.cool/VeenothaY) |
