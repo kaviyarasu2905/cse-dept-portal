@@ -78,8 +78,6 @@
 | 38 | 710723104062 | MUTHU BHAVANI D | [👤](https://github.com/bhavani2706) | [📦](https://github.com/bhavani2706/Leetcode_Tracker) | [🔗](https://leetcode.com/u/MUTHUBHAVANI/) | ![](https://leetcard.jacoblin.cool/MUTHUBHAVANI) |
 | 39 | 710723104063 | NANDHIDHA SRI S | [👤](https://github.com/NandhidhaSri-03) | [📦](https://github.com/NandhidhaSri-03/leetcode-tracker) | [🔗](https://leetcode.com/u/NandhidhaSri/) | ![](https://leetcard.jacoblin.cool/NandhidhaSri) |
 | 40 | 710723104301 | AFSANA KATHOON A | [👤](https://github.com/Afsu03) | [📦](https://github.com/Afsu03/leetcode-Tracker) | [🔗](https://leetcode.com/u/Afsu03/) | ![](https://leetcard.jacoblin.cool/Afsu03) |
-| 41 | 710723104302 | DHYANESH M | [👤](https://github.com/dhyanesh007) | [📦](https://github.com/dhyanesh007/leetcode-tracker) | [🔗](https://leetcode.com/u/Dhyanesh2005/) | ![](https://leetcard.jacoblin.cool/Dhyanesh2005) |
-| 42 | 710723104303 | MONIKA S | [👤](https://github.com/Monikaselvamgit) | [📦](https://github.com/Monikaselvamgit/leetcode-tracker) | [🔗](https://leetcode.com/u/monika_selvam_1115/) | ![](https://leetcard.jacoblin.cool/monika_selvam_1115) |
 
 ---
 
